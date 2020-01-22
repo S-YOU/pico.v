@@ -1,0 +1,8 @@
+[submodule "picoev/src"]
+	path = picoev/src
+	url = https://github.com/S-YOU/picoev
+	branch = v0.0.1
+[submodule "picohttpparser/src"]
+	path = picohttpparser/src
+	url = https://github.com/S-YOU/picohttpparser
+	branch = v0.0.1
